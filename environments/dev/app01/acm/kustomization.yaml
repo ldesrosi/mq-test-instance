@@ -1,5 +1,4 @@
 
 resources:
-  - ./placements.yaml
   - ./applicationset.yaml
   
